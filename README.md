@@ -65,7 +65,3 @@ This project is licensed under the MIT License.
 ## Contact
 
 For questions or feedback, feel free to reach out to [paul.michael.olson11@gmail.com](mailto:paul.michael.olson11@gmail.com).
-
----
-
-Feel free to customize any part of this README to better suit your project or add additional information as needed!
